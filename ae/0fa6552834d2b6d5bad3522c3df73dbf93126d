@@ -1,0 +1,21 @@
+data/perimap.yaml
+  s_6bd61828716d30::t_1d481006a4d0dc 330
+data/registers/rtc_v3_h7ab.yaml
+  s_6bd61828716d30::t_6b0ff62ad3ab69 1-833
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ae0fa6552834d2b6d5bad3522c3df73dbf93126d",
+  "prompts": {},
+  "sessions": {
+    "s_6bd61828716d30": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14b639cd-ab17-4cef-a5dc-9855ced29339",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Joël Schulz-Andres <joel@systemscape.de>"
+    }
+  }
+}
