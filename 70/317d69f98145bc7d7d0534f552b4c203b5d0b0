@@ -1,0 +1,19 @@
+data/registers/rcc_h7ab.yaml
+  s_6bd61828716d30::t_2bfbdbfd2a30c0 231-234,282-285,333-336,360-363,458-461
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "70317d69f98145bc7d7d0534f552b4c203b5d0b0",
+  "prompts": {},
+  "sessions": {
+    "s_6bd61828716d30": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14b639cd-ab17-4cef-a5dc-9855ced29339",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Joël Schulz-Andres <joel@systemscape.de>"
+    }
+  }
+}
