@@ -1,0 +1,19 @@
+data/registers/pwr_g4.yaml
+  s_6bd61828716d30::t_1d2c0e633e77ba 179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a9d2d58b63614de6e7eeddb2d474a6eca3edf95",
+  "prompts": {},
+  "sessions": {
+    "s_6bd61828716d30": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14b639cd-ab17-4cef-a5dc-9855ced29339",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Joël Schulz-Andres <joel@systemscape.de>"
+    }
+  }
+}
