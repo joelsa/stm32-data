@@ -1,0 +1,12 @@
+matches:
+  chip: STM32H7[AB].*
+peripherals:
+  # CubeMX lists no TAMP IP for H7A3/H7B0/H7B3, but the chips have one
+  # (RM0455 §51). It holds the backup registers, which are no longer part
+  # of the RTC on these chips.
+  - name: TAMP
+    address: 0x58004400
+    registers:
+      kind: tamp
+      version: h7ab
+      block: TAMP
