@@ -1,0 +1,21 @@
+data/extra/STM32H7[AB]x.yaml
+  s_6bd61828716d30::t_e1d954a19a3685 1-12
+data/registers/tamp_h7ab.yaml
+  s_6bd61828716d30::t_81d87937d81281 1-266
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "66871e524a4167286507fc1fa8b31194a1747a28",
+  "prompts": {},
+  "sessions": {
+    "s_6bd61828716d30": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "14b639cd-ab17-4cef-a5dc-9855ced29339",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Joël Schulz-Andres <joel@systemscape.de>"
+    }
+  }
+}
